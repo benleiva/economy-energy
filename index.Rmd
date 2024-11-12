@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Economics and energy as if reality matters"
+author: "Dr. Benjamin Leiva"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
